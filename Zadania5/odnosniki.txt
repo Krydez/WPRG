@@ -1,0 +1,5 @@
+https://www.google.com/;Google
+https://www.facebook.com/;Facebook
+https://www.twitter.com/;Twitter
+https://www.youtube.com/;YouTube
+https://www.github.com/;GitHub
